@@ -1,0 +1,7 @@
+﻿{
+  "SystemName": "ApplicationInsights",
+  "FriendlyName": "Application Insights",
+  "SupportRTL": true,
+  "PreviewImageUrl": "~/Themes/ApplicationInsights/preview.jpg",
+  "PreviewText": "Skeleton for setting up Application Insights client side telemetry"
+}
