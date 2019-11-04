@@ -10,19 +10,10 @@
 
 ## :outbox_tray: [Install](https://docs.nopcommerce.com/developer/design/installing-theme.html "Install")
 
-1. Paste "ApplicationInsights" folder into "Presentation/Nop.Web/Themes"
-2. Add the following code to your Nop.Web.csproj:
-
-```
-  <ItemGroup>
-    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.7.1" />
-  </ItemGroup>
-```
-  
-3. Reload Visual Studio or wait for the assembly reference to install
-4. Go to the admin panel of your shop
-5. Go to Configuration › Settings › General settings
-6. Select new theme from the Default Store Theme and click Save.
+1. Paste **ApplicationInsights** folder into **Presentation/Nop.Web/Themes**
+2. Go to the **Admin panel** of your shop
+3. Go to **Configuration â€º Settings â€º General settings**
+4. Select new theme from the **Default Store Theme** and click **Save**.
 
 <br />
 
